@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sample Web Page</title>
+</head>
+<body>
+
+  <!-- Main Heading and Introduction -->
+  <header>
+    <h1>Welcome to My Website</h1>
+    <p>This is a sample paragraph showing basic HTML structure.</p>
+  </header>
+
+  <!-- Navigation and Content -->
+  <main>
+    <h2>Key Elements</h2>
+    <ul>
+      <li>Unordered list item one</li>
+      <li>Unordered list item two</li>
+    </ul>
+
+    <p>Visit <a href="https://www.w3schools.com/html/" target="_blank">W3Schools HTML Tutorial</a> to learn more.</p>
+    <img src="example.jpg" alt="Descriptive text for the image" width="300">
+  </main>
+
+  <footer>
+    <p>&copy; 2026 My Website</p>
+  </footer>
+
+</body>
+</html>
